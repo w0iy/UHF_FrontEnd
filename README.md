@@ -10,3 +10,5 @@ power device is in a SOT-89. The components are a direct copy from the AFT05M ev
 
 My plan is to have a single BPF on the Antenna side, which will have 2 characteristics: low insertion loss (for NF) and deep stop bands to suppress TV stations. This filter will also serve to suppress the Tx harmonics. This filter is in the early stages of development. (as of summer 2020)
 
+ALWAYS OPEN TO COMMENTS OR SUGGESTIONS!  Look up w0iy on QRZ
+
