@@ -1,4 +1,4 @@
-# UHF_FrontEnd
+# UHF_Front End
 This is a companion to the Analog Devices ADALM Pluto. 
 The device contains wideband Rx Preamp and low power Tx PA for UHF, with T/R switch. This can be built for wide coverage or for a specific band. 
 
